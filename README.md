@@ -1,4 +1,4 @@
-# Hi there! I'm Naga Jyothi M 🔐🤖[cite: 1, 2]
+# Hi there! I'm Naga Jyothi M 🔐🤖
 
 I am an **IAM Engineer & Cybersecurity Consultant** with 7+ years of experience securing enterprise environments, currently bridging the gap between robust identity governance and cutting-edge **AI Multi-Agent systems**[cite: 1, 2]. 
 
